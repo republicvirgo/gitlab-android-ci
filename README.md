@@ -1,12 +1,6 @@
-# Docker Image for Build Android 
-[![](https://images.microbadger.com/badges/image/showcheap/gitlab-ci-android.svg)](https://microbadger.com/images/showcheap/gitlab-ci-android "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/showcheap/gitlab-ci-android.svg)](https://microbadger.com/images/showcheap/gitlab-ci-android "Get your own version badge on microbadger.com")
+# This Repository is moved to Gitlab
 
-GitLab CI image for building Android apps
-
-This code on repo will automatically build on Docker Hub : 
-
-https://hub.docker.com/r/showcheap/gitlab-ci-android/
+https://gitlab.com/showcheap/android-ci
 
 ## Example `.gitlab-ci.yml` file
 You can specify tag for target SDK Version (If available, if not PR are welcome)
